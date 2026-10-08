@@ -1,3 +1,4 @@
 # PJP_NLR_analysis
 Repo linked to paper "Prognostic value of neutrophil-to-lymphocyte ratio in ICU patients with Pneumocystis jirovecii pneumonia: Based on the MIMIC-IV and eICU-CRD database"
+
 All statistical analyses were conducted using R software (version 4.6.1). The following R packages were applied: readxl (v1.5.0) for importing Excel datasets; rms (v8.1.1) for restricted cubic spline regression; survival (v3.8.6) for Cox proportional‑hazards regression; broom (v1.0.13) to extract regression coefficients, odds ratios, hazard ratios, confidence intervals and P‑values; ggplot2 (v4.0.3) for generating figures.
